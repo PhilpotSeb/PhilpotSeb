@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @PhilpotSeb
+- 👋 Hi, I’m @PhilpotSeb aka Sebastian
 - 👀 I’m interested in making fun side projects
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-PhilpotSeb/PhilpotSeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: sebastianphilpot2002@gmail.com
+- ⚡ Fun fact: I'm a novice programmer looking to improve, learn, and commit to coding.
+- I'm currently in college working towards a Bachelor's Degree in Cyber Security.
+- Future pentester in the making.
